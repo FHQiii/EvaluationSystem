@@ -50,3 +50,4 @@
 	2.2.8 修改各个项目获奖情况
 		根据项目的成绩，给不同项目不同的奖项  
 ## 3. 用例图
+![image](https://user-images.githubusercontent.com/43638528/134269967-db816b38-cfa7-42bb-9787-c5cf1a551998.png)
